@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **php,ci4,jquery,ajax**
+- 🌱 I’m currently learning **php,ci4,jquery,ajax,python,FastApi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
